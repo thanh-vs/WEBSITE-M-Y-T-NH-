@@ -1,3 +1,4 @@
+
 # TechCore E-Commerce
 
 Dự án website thương mại điện tử chuyên kinh doanh thiết bị công nghệ, laptop gaming và phụ kiện máy tính.
@@ -34,3 +35,4 @@ npm run dev
 ```
 
 4. Mở trình duyệt và truy cập: `http://localhost:3000`
+
